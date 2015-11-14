@@ -33,7 +33,7 @@ msgstr "Rapidology"
 
 #: ../rapidology.php:186
 msgid "Optin Forms"
-msgstr "Formas Optin"
+msgstr "Formulario Optin"
 
 #: ../rapidology.php:187
 msgid "Email Accounts"
